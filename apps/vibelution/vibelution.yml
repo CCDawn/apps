@@ -1,0 +1,19 @@
+name: Vibelution
+description:
+  Local-first desktop workbench where AI agents collaborate as a supervised research team; bring your own local or cloud model.
+website: https://github.com/CCDawn/Vibelution#readme
+category: Productivity
+repository: https://github.com/CCDawn/Vibelution
+keywords:
+  - ai
+  - agents
+  - llm
+  - research
+  - productivity
+license: MIT
+locales:
+  - en-US
+  - zh-CN
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/CCDawn/Vibelution/main/docs/assets/readme/research-preview.gif'
+    caption: 'Supervised AI research team at work in the workbench'
